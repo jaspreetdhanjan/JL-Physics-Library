@@ -1,7 +1,7 @@
-# JL Library
+# JL-Physics-Library
 
 <h2>Introduction</h2>
-A basic physics library for 2D Java applications. A lot of the code is unfinished and unoptimised – it is still very much a work-in-progress.
+A basic physics library for 2D Java applications. A lot of the code is unfinished and unoptimised – it is still very much a work-in-progress. This is a companion API to my <a href="https://github.com/jaspreetdhanjan/JL-Graphics-Library">JL-Graphics-Library</a>
 
 Created by Jaspreet Dhanjan.
 
